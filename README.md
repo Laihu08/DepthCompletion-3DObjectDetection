@@ -1,3 +1,5 @@
+<h1 align="center">Depth Completion for 3D Object Detection</h1>
+
 ![image](https://github.com/user-attachments/assets/269ca28a-7623-4ce6-81b5-43a7b09c23c5)
 
 *A deep learning-based approach for multi-modal 3D object detection using LiDAR and RGB images.*
