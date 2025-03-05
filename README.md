@@ -1,6 +1,5 @@
-# Depth Completion for 3D Object Detection
+![image](https://github.com/user-attachments/assets/269ca28a-7623-4ce6-81b5-43a7b09c23c5)
 
-![Project Banner](https://your-image-link.com)  
 *A deep learning-based approach for multi-modal 3D object detection using LiDAR and RGB images.*
 
 ## 📌 Project Overview
@@ -104,14 +103,14 @@ python scripts/main.py
 - **(c) Predicted Dense Depth Map** → Model-generated dense depth from (b).
 - **(d) Ground Truth Dense Depth Map** → The actual full depth map (for evaluation).
 
-![Depth Completion](<img width="858" alt="Image" src="https://github.com/user-attachments/assets/e95b6545-c27b-448c-8b40-3abd56243e05" />
-)
+[<img width="858" alt="Image" src="https://github.com/user-attachments/assets/e95b6545-c27b-448c-8b40-3abd56243e05" />
+](https://private-user-images.githubusercontent.com/55731288/419268331-a1c8c61c-819b-4647-9047-a44c8ccefbf4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDExNDI1NzYsIm5iZiI6MTc0MTE0MjI3NiwicGF0aCI6Ii81NTczMTI4OC80MTkyNjgzMzEtYTFjOGM2MWMtODE5Yi00NjQ3LTkwNDctYTQ0YzhjY2VmYmY0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzA1VDAyMzc1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA3NTUyYjYyYTMwY2IxNWEyNDk4NmQxMWNjMTczMDExY2FmNjU1MjFkMmNjNzgwNzNiYzAzOTJhNmZhNDRlZGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.uKqC-eIxsjkiomlA63E1prymlmmfAxoU3FOXCL7y2h4)
 
 ### **3D Object Detection Results**
 - **Top row** → RGB images with predicted **3D bounding boxes**.
 - **Bottom row** → Corresponding LiDAR **point cloud** with bounding boxes.
 
-![3D Object Detection](<img width="1214" alt="Image" src="https://github.com/user-attachments/assets/f9fd8e1f-e380-430b-8997-791afa7c2dd8" />)
+[<img width="1214" alt="Image" src="https://github.com/user-attachments/assets/f9fd8e1f-e380-430b-8997-791afa7c2dd8" />](https://private-user-images.githubusercontent.com/55731288/419268351-bd86acd6-323c-4b4d-b7f3-7342dcc18ffd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDExNDI1NzYsIm5iZiI6MTc0MTE0MjI3NiwicGF0aCI6Ii81NTczMTI4OC80MTkyNjgzNTEtYmQ4NmFjZDYtMzIzYy00YjRkLWI3ZjMtNzM0MmRjYzE4ZmZkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzA1VDAyMzc1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM3OTljYmNlNTRhZTdmMTZiMWQ1ZGEzOWZiNTJhNzkyMjQyZTZkZmUxZTQ2Y2E1OTg3MzA4OWE5NzI4N2JmMGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.1lTYsAqnUsn8-7Y6mZGVNtLiW6qIsTkH07uOB9lzxMQ)
 
 ---
 
